@@ -1,0 +1,9 @@
+{
+  "name": "gpu-physics",
+  "version": "0.0.1",
+  "description": "GPGPU physics for three.js",
+  "main": "build/gp.module.js",
+  "directories": {
+    "example": "examples"
+  }
+}
